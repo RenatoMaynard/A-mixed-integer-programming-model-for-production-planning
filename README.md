@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the implementation of a mixed-integer programming (MIP) model proposed in the paper:
 
-**"A Mixed-Integer Programming Model for an Integrated Production Planning Problem with Preventive Maintenance in the Pulp and Paper Industry"**
+**"[A Mixed-Integer Programming Model for an Integrated Production Planning Problem with Preventive Maintenance in the Pulp and Paper Industry](https://www.tandfonline.com/doi/abs/10.1080/0305215X.2022.2086237?tab=permissions&scroll=top)"**
 
 ### Abstract
 Production planning and scheduling in the pulp and paper industry can be very challenging. In most cases, practitioners address the production planning process manually, which is time-consuming and sub-optimal. This study deals with production planning encountered in a pulp mill company involving different wood species, parallel heterogeneous lines, inventory limits, sequence-independent setup times, and preventive maintenance. To tackle the problem, an efficient mixed-integer formulation is proposed that optimizes when, where, and how much to produce of different wood species and schedules preventive maintenance to minimize the total setup times. Several computational experiments are conducted to solve a case study in a pulp mill company in Chile. The results show the capability of the model to support the decision-making process in the pulp and paper industry, providing an efficient tool for practitioners to solve the problem in a reasonable amount of time.
